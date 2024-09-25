@@ -1,4 +1,4 @@
-# Example Python code to integrate GPT-4 (simulated) with Google Sheets
+# Example Python code to integrate GPT-4 with Google Sheets
 
 import openai
 import gspread
@@ -9,9 +9,9 @@ import sounddevice as sd
 import numpy as np
 
 # Use your own API key for GPT-4 and Google Sheets
-openai_api_key = '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'
+openai_api_key = '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'
 google_sheets_credentials_json = '/home/d3f4ult/ffmpeg/sector9/sector9-407818-55432b251486.json'
-# together.ai 7cc313657471bd0af161d000c19c45289ac274592e75af4541a7c709974e18d2
+# together.ai 000013657471bd0af161d000c19c45289ac274592e75af4541a7c709974e0000
 
 # Initialize OpenAI GPT-4 (simulated for this example)
 openai.api_key = openai_api_key
